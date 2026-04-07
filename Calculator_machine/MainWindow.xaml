@@ -5,11 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:vm="clr-namespace:Calculator_machine.ViewModels"
         mc:Ignorable="d"
-        Title="FA 장비 조작반 (계산기)" Height="500" Width="350">
+        Title="계산기" Height="500" Width="350">
 
-    <Window.DataContext>
-        <vm:MainViewModel />
-    </Window.DataContext>
 
     <Grid Margin="15">
         <Grid.RowDefinitions>
